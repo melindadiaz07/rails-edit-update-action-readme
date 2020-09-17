@@ -142,7 +142,7 @@ The `raise` method will cause the application to pause and print out the
 the Rails server log.
 
 If you open up the browser, navigate to an edit page (such as
-`localhost:3000/articles/2/edit`), change some elements in the form, and submit it,
+`localhost:3000/articles/1/edit`), change some elements in the form, and submit it,
 it should take you to an error page that prints out the params from the form,
 such as in the below image:
 
